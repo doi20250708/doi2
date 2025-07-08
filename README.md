@@ -10,4 +10,4 @@
 
 该平台专为喜爱欧美风格影片的用户打造，内容涵盖粗犷激情、剧情演绎与真实互动等类型。所有影片支持高清播放，无需注册即可直接访问。每日更新，界面简洁，提供沉浸式观影体验，是追求高质量内容用户的理想选择。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/doi20250708/doi2 ）</span>
